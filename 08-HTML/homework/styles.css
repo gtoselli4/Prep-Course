@@ -1,0 +1,38 @@
+body {
+background-image: url(https://www.newhorizonstravel.com/wp-content/uploads/2018/09/Italy_3a_AdobeStock_165483822.jpg);
+background-size: 115% 100%;
+background-attachment: fixed;
+}
+div {
+margin: auto;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: goldenrod;
+  padding: 50px;
+  border: thick double;
+  border-color: crimson;
+}
+.divClass {
+  text-align: center;
+  width: 350px;
+}
+#spanId {
+font-size: 18px;
+margin: 50px;
+}
+h1 {
+color: crimson;
+background-color: black;
+}
+h3  {
+font-size: 25px;
+color: yellow;
+}
+h4 {
+font-size: 25px
+}
+img {
+width: 400px;
+}
